@@ -91,4 +91,4 @@ switch op {
         break;
     default: res = -1
 }
-print("The result is \(res)")
+print("Result: \(res)")
